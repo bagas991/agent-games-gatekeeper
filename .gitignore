@@ -1,0 +1,9 @@
+node_modules/
+data/
+*.log
+wallet.json
+session.json
+agent_secret.txt
+agent_info.json
+circuits/
+*.png
